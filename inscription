@@ -60,40 +60,40 @@ Date de naissance
   <p><input type="checkbox" name="diplome 5"> LICENCE
  <P><input type="checkbox" name="diplome 6"> MASTER
 <P><input type="checkbox" name="diplome 7"> DOCTORAT
-    <p> PAYS
-     <select name="PAYS">
-      <p><option value=1>CHOISIR
-       <p><option value=2>AFRIQUE DU SUD
+ <p> PAYS
+  <select name="PAYS">
+   <p><option value=1>CHOISIR
+    <p><option value=2>AFRIQUE DU SUD
       <p><option value=3>ALGERIE
      <p><option value=4>ANGOLA
     <p><option value=5>BENIN
    <p><option value=6>BOTSWANA
   <p><option value=7>BURKINA
  <p><option value=8>BURUNDI
-	 <p><option value=8>CAMEROUN
-	   <p><option value=9>CAP vert
-	    <p><option value=10>COMORES
-		 <p><option value=11>COTE D'IVOIRE
-               <p><option value=12>DJIBOUTI
-                 <p><option value=13>EGYPTE
-                   <p><option value=14>ERYTHREE
-                     <p><option value=15>ETHIOPIE
-                       <p><option value=16>ESWATINI
-                         <p><option value=17>GABON
-                           <p><option value=18>GAMBIE
-		                 <p><option value=19>GHANA
-			            <p><option value=20>GUINEE BISSEAU
-				       <p><option value=21>GUINEE EQUATORIALE
-				      <p><option value=22>KENYA
-				    <p><option value=23>LIBERIA
-				   <p><option value=24>LIBYE
-			      <p><option value=25>LESOTHO
-				 <p><option value=26>MADAGASCAR
-				<p><option value=27> MALAWI
-		       <p><option value=28> MALI
-			  <p><option value=29> MAROC
-			<p><option value=30> MAURITANIE
+<p><option value=8>CAMEROUN
+ <p><option value=9>CAP vert
+  <p><option value=10>COMORES
+   <p><option value=11>COTE D'IVOIRE
+    <p><option value=12>DJIBOUTI
+     <p><option value=13>EGYPTE
+      <p><option value=14>ERYTHREE
+        <p><option value=15>ETHIOPIE
+         <p><option value=16>ESWATINI
+          <p><option value=17>GABON
+           <p><option value=18>GAMBIE
+	    <p><option value=19>GHANA
+	     <p><option value=20>GUINEE BISSEAU
+	    <p><option value=21>GUINEE EQUATORIALE
+	   <p><option value=22>KENYA
+	  <p><option value=23>LIBERIA
+	 <p><option value=24>LIBYE
+	<p><option value=25>LESOTHO
+       <p><option value=26>MADAGASCAR
+      <p><option value=27> MALAWI
+     <p><option value=28> MALI
+    <p><option value=29> MAROC
+  <p><option value=30> MAURITANIE
 </select>
- <p> <left> <input type="submit" name="envoi" value="envoyer"> <br> </left>
+   <p> <left> <input type="submit" name="envoi" value="envoyer"> <br> </left>
   </body>
  </html>.
