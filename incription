@@ -1,0 +1,99 @@
+<title> Formulaire_d'inscription </title>
+ <html> <head>
+       </head>
+  <body>
+ <br>
+ <marquee> <FONT SIZE="10"> <font  color="#000FF">Bienvenue sur notre site d'inscription. Veuillez remplir le formulaire ci-dessous pour valider votre inscription.</color> </FONT> </marquee>
+  <br>
+   <br>
+  <center> <u> <p> <FONT SIZE="06"> FORMULAIRE D'INSCRIPTION </u> </FONT> </center> <p> 
+ </fieldset> </center>
+<center> <table border=2 bgcolor="eeaa"  rows =10 cols=110>    <tr rows =10 cols=10>  <td >  <FORM method="post" action="mailto:priscakouakou222@gmail.com"> 
+  <p>Matricule:<center><input  type="text" name="Matricule" value="entrez votre matricule"size=50 maxlength=25 > <br></center>
+   <p>Nom: <center><input type="text" name="Nom" value= "entrez  votre nom" size=50 maxlength=25 > <br></center>
+  <p>Prénom: <center><input type="text" name="Prenom" value= "entrez votre prenom" size=50 maxlength=25 > <br></center><p>
+Date de naissance 
+  <select name="jour">
+   <option value="01">01
+    <option value="02">02
+     <option value="03">03
+      <option value="04">04
+       <option value="05">05
+        <option value="06">06
+         <option value="07">07
+          <option value="08">08
+           <option value="09">09
+            <option value="10">10
+             <option value="11">11
+              <option value="12">12
+               <option value="13">13
+                <option value="14">14
+                 <option value="15">15
+                  <option value="16">16
+                 <option value="17">17
+                <option value="18">18
+               <option value="19">19
+              <option value="20">20
+             <option value="21">21
+            <option value="22">22
+           <option value="23">23
+          <option value="24">24
+         <option value="25">25
+        <option value="26">26
+       <option value="27">27
+      <option value="28">28
+     <option value="29">29
+    <option value="30">30
+   <option value="31">31
+  </select><p>
+  SEXE:  <input type="radio"name="sexe"> masculin <input type="radio"name="sexe"> feminin 
+ <p>DIPLOME:
+<p><input type="checkbox" name="diplome 1"> CEPE
+ <br>
+ <p><input type="checkbox" name="diplome 2"> BEPC 
+  <p><input type="checkbox" name="niveau 2">CAP
+   <br>
+    <p><input type="checkbox" name="diplome 3"> BAC
+     <p><input type="checkbox" name="diplome 3"> BT
+    <br>
+   <p><input type="checkbox" name="diplome 4"> BTS
+  <p><input type="checkbox" name="diplome 5"> LICENCE
+ <P><input type="checkbox" name="diplome 6"> MASTER
+<P><input type="checkbox" name="diplome 7"> DOCTORAT
+    <p> PAYS
+     <select name="PAYS">
+      <p><option value=1>CHOISIR
+       <p><option value=2>AFRIQUE DU SUD
+      <p><option value=3>ALGERIE
+     <p><option value=4>ANGOLA
+    <p><option value=5>BENIN
+   <p><option value=6>BOTSWANA
+  <p><option value=7>BURKINA
+ <p><option value=8>BURUNDI
+	 <p><option value=8>CAMEROUN
+	   <p><option value=9>CAP vert
+	    <p><option value=10>COMORES
+		 <p><option value=11>COTE D'IVOIRE
+               <p><option value=12>DJIBOUTI
+                 <p><option value=13>EGYPTE
+                   <p><option value=14>ERYTHREE
+                     <p><option value=15>ETHIOPIE
+                       <p><option value=16>ESWATINI
+                         <p><option value=17>GABON
+                           <p><option value=18>GAMBIE
+		                 <p><option value=19>GHANA
+			            <p><option value=20>GUINEE BISSEAU
+				       <p><option value=21>GUINEE EQUATORIALE
+				      <p><option value=22>KENYA
+				    <p><option value=23>LIBERIA
+				   <p><option value=24>LIBYE
+			      <p><option value=25>LESOTHO
+				 <p><option value=26>MADAGASCAR
+				<p><option value=27> MALAWI
+		       <p><option value=28> MALI
+			  <p><option value=29> MAROC
+			<p><option value=30> MAURITANIE
+</select>
+ <p> <left> <input type="submit" name="envoi" value="envoyer"> <br> </left>
+  </body>
+ </html>.
